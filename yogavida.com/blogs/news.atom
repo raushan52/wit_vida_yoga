@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yogavida.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://yogavida.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://yogavida.com/blogs/news.atom"/>
+  <title>YOGA VIDA - News</title>
+  <updated>2019-11-04T23:20:00-05:00</updated>
+  <author>
+    <name>YOGA VIDA</name>
+  </author>
+  <entry>
+    <id>https://yogavida.com/blogs/news/january-2020-trainings</id>
+    <published>2019-11-04T23:20:00-05:00</published>
+    <updated>2019-11-04T23:20:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogavida.com/blogs/news/january-2020-trainings"/>
+    <title>January 2020 Trainings</title>
+    <author>
+      <name>Chris YV</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Restorative Yoga w/Abby Paloma<br>January 10-12, 2020<br>&gt;&gt;Register <a href="https://clients.mindbodyonline.com/classic/ws?studioid=8521&amp;stype=-102&amp;sView=day&amp;sLoc=0&amp;date=01/10/20" target="_blank" rel="noopener noreferrer">HERE</a>. <br><br>Meditation &amp; Pranayama w/ Lindsay Hilscher &amp; Eileen Goddard<br>January 17-19 &amp; 24-26, 2020<br>&gt;&gt; Register <a href="https://clients.mindbodyonline.com/classic/ws?studioid=8521&amp;stype=-102&amp;sView=day&amp;sLoc=0&amp;date=01/17/20">HERE</a>.</p>]]>
+    </content>
+  </entry>
+</feed>
